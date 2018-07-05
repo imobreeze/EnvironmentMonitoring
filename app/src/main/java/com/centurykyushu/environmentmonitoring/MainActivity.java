@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.button_4,R.drawable.button_5,R.drawable.button_6,R.drawable.button_7};
     private ImageView bingPicImg;
 
-
+//测试Git添加
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
